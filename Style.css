@@ -1,0 +1,20 @@
+header { color: brown; border: solid 0.5px red; padding: 30px; 
+    background-color: aliceblue;
+}
+
+.Header-Image { width: 300px; }
+
+.parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+
+}
+
+.child{
+    display: inline-block;
+    border: 1px solid orchid;
+    padding: 1px 1px;
+    vertical-align: middle;
+}
